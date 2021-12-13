@@ -41,7 +41,7 @@ const User = ({
 
   return (
     <Fragment>
-      <Link to="/" className="btn btn-light">
+      <Link to="/GitHub-Finder-ReactApp" className="btn btn-light">
         Back to Search
       </Link>
       Hireable:{" "}
